@@ -1,3 +1,36 @@
 body{
-    background-color: rgb(63, 98, 141);
+    margin :0;
+    text-align: center;
+}
+h1{
+    margin-top: 0;
+    
+}
+.top-container{
+   padding-top: 100px;
+   background-color: #E4F9F5;
+   height: 400px;
+   position: relative;
+}
+.top-cloud{
+    position: absolute;
+    height:100px;
+    width:100px;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    height:100px;
+    width:100px;
+    left: 300px;
+    bottom: 50px;
+}
+.pro{
+ text-decoration: dotted;
+}
+.mountain{
+    position: relative;
+    height: 300px;
+    width: 300px;
 }
