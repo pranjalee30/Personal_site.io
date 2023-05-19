@@ -81,7 +81,7 @@ hr{
     line-height: 2;
 }
 .tech-image{
-    width: 40%;
+    width: 50%;
     float:left;
     margin-right: 30px;
     padding-right: 20px;
@@ -118,7 +118,7 @@ hr{
     text-decoration: none;
   }
   .bottom-container{
-   background-color:#66BFBF ;
+   background-color:#04d1d1 ;
    padding: 40px 0 20px;
    margin-top:  60px;
   }
